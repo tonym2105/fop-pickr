@@ -12,5 +12,5 @@ docker run --volumes-from mysql-pickr-data --name pickr-mysql -e MYSQL_USER=mysq
 Shout Outs!
 
 * Running MySQL with Docker
-https://github.com/arun-gupta/docker-images/tree/master/mysql-data-container#mysql-data-only-docker-container
+http://blog.arungupta.me/docker-mysql-persistence/
 
